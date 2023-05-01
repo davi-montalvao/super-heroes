@@ -1,8 +1,8 @@
-# Heroes
+# Super-Heroes
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/davi-montalvao/heroes/blob/master/LICENSE)
 
 # 💭 Sobre o projeto
-A aplicação web e mobile **Heroes** foi desenvolvida para o desafio proposto pela empresa **Globalthings**, com o objetivo de oferecer uma plataforma que permita aos usuários descobrir e compartilhar informações sobre seus heróis favoritos de forma fácil e intuitiva
+A aplicação web e mobile **Super-Heroes** foi desenvolvida para o desafio proposto pela empresa **Globalthings**, com o objetivo de oferecer uma plataforma que permita aos usuários descobrir e compartilhar informações sobre seus heróis favoritos de forma fácil e intuitiva
 
 
 ## 🖥️ Layout web
